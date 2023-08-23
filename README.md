@@ -6,3 +6,4 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=babarnazmi&layout=compact&hide=html" alt="faisalmjanjua" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=babarnazmi&show_icons=true" alt="faisalmjanjua" />
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
